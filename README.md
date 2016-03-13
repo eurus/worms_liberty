@@ -7,7 +7,8 @@ This project is built on top of [Cuba](https://github.com/soveran/cuba) and heat
 
 ## how to run this project
 
-Fork this repo, and clone it. Setup mysql database by creating a database named worms, or whatever you want, Just edit the `database.rb` in config.
+Fork this repo, and clone it. Setup mysql database by creating a database named worms, or whatever you want, Just edit the `database.rb` in config.    
+run `rake sever` you will see this server is up and running.
 
 ## some tasks
 
