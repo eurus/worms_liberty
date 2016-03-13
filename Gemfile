@@ -8,6 +8,7 @@ gem 'cuba'
 gem 'mysql2'
 gem "sequel"
 group :development do
+  gem 'pry'
   gem 'awesome_print'
 end
 
