@@ -27,6 +27,13 @@ rake db:rollback #rollback the database to previous
 rake db:reset
 ```
 
+Run the console
+
+```bash
+chmod a+x bin/console
+bin/console
+```
+
 ## contribute
 
 Feel free to fork or pr. Or email me(banana@eurus.cn)
